@@ -1,0 +1,1 @@
+$(currentDay).html(moment().format("dddd, MMM Do"));
